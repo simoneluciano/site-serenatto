@@ -41,4 +41,19 @@ Tema com alternância de modo claro/escuro
 
 Links sociais no rodapé
 
+📌 Status
+
+✔️ Projeto finalizado para fins de prática e apresentação no portfólio.
+
+🚫 Projeto fictício, sem fins comerciais.
+
+
+👩‍💻 Autora
+
+Feito com 💜 por Simone Luciano
+
+📧 simoneluciano420@gmail.com
+
+
+
 
